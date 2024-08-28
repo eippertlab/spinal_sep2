@@ -5,4 +5,4 @@
 # spinal_sep2
 This is the code for Study 2 described in detail in a preprint on [bioRxiv](https://doi.org/10.1101/2022.12.05.519148). The preregistration for this project is available via [OSF](https://osf.io/mjdha) and the data are available via [OpenNeuro](https://openneuro.org/datasets/ds004389).
 
-Necessary functions can be found in the related spinal_sep1 repository.
+Necessary functions can be found in the related [repository](https://github.com/eippertlab/spinal_sep1) for Study 1.
